@@ -1,0 +1,1 @@
+> Predict the probability that a customer will default on a BNPL transaction, using information available at the time the BNPL application or purchase is made.
